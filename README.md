@@ -1,4 +1,13 @@
-### Hi there 👋
+## 🦊ツイーティ・ザ・フォックスのプロフにようこそ🦊
+<br>
+
+### 🍵私のリポジトリの一覧はこちらです  
+https://gist.github.com/TweeTea277/860e569a6e299f41fc383c3b496d8967
+<br><br>
+
+### 🍵私のホームページや連絡先はこちらです  
+
+https://gist.github.com/TweeTea277/02d9ba0b1fe81b81283b71a48371e957
 
 <!--
 **TweeTea277/TweeTea277** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
